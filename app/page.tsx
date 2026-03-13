@@ -230,13 +230,13 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-sm leading-relaxed mb-5" style={{ color: mutedColor }}>
-                An AI/ML enthusiast who believes in learning things in the most unorthodox way —
+                An aficionado who believes in learning things in the most unorthodox way —
                 breaking conventions, experimenting boldly, and building tools that make knowledge
                 genuinely accessible to everyone.
               </p>
               <div className="flex gap-2 flex-wrap">
                 <a
-                  href="https://www.linkedin.com/in/your-linkedin-username"
+                  href="https://www.linkedin.com/in/lenkaaditya/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-xs font-semibold no-underline transition-all duration-700"
@@ -246,7 +246,7 @@ export default function Home() {
                   LinkedIn
                 </a>
                 <ContactButton
-                  email="your-email@gmail.com"
+                  email="adityalenka779@gmail.com"
                   btnBg={cardBg}
                   btnBorder={cardBorder}
                   textColor={textColor}
