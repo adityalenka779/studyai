@@ -159,7 +159,7 @@ export default function Home() {
 
         {/* Share button */}
         <a
-          href="https://your-project.vercel.app"
+          href="https://studyai-rust.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           title="Share this app"
@@ -399,3 +399,4 @@ export default function Home() {
     </div>
   );
 }
+
