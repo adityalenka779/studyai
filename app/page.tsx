@@ -582,7 +582,7 @@ export default function Home() {
           className="mt-12 pb-12 text-xs transition-colors duration-700"
           style={{ color: mutedColor }}
         >
-          © 2025 studyai · Powered by Groq & LLaMA 3.3 70B
+          © 2025 studyai · Powered by Gemini AI | Groq & LLaMA 3.3 70B 
         </p>
       </div>
     </div>
